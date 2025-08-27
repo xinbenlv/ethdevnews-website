@@ -2,7 +2,7 @@
 
 ## Credits
 
-* [Week in Ethereum News](https://weekinethereumnews.com) (WiEN): Published by [Evan Van Ness](https://x.com/evanvanness) from August 2016 until December 2024. Andrew was the editor from May 2021. WiEN set the standard for curated Ethereum developer news and ethdevnews stands on the shoulders of this giant.
+* [Week in Ethereum News](https://weekinethereumnews.com) (WiEN): Published by [Evan Van Ness](https://x.com/evan_van_ness) from August 2016 until December 2024. Andrew was the editor from May 2021. WiEN set the standard for curated Ethereum developer news and ethdevnews stands on the shoulders of this giant.
 
 * [Astro Micro](https://github.com/trevortylerlee/astro-micro): ethdevnews is built on Astro and uses Astro Micro theme (MIT licence) as a base.
 
